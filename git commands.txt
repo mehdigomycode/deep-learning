@@ -1,0 +1,4 @@
+git add .        : ajouter toutes les modifications
+git push         : mise a jour lel dossier fel git
+
+
